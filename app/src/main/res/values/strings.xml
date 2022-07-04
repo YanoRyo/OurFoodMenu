@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">OurFoodMenu</string>
+    <string name="home_text">ホーム</string>
+    <string name="gapao_text">ガパオライス</string>
+    <string name="greencare_text">グリーンカレー</string>
+    <string name="hiyasityuuka_text">冷やし中華</string>
+    <string name="karaage_text">唐揚げ</string>
+    <string name="kimakare_text">キーマカレー</string>
+    <string name="pizza_text">ピザ</string>
 </resources>

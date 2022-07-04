@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home_text"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/gapao_text"
+        android:title="@string/gapao_text"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/greencare_text"
+        android:title="@string/greencare_text"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/hiyasityuuka_text"
+        android:title="@string/hiyasityuuka_text" />
+    <item
+        android:id="@+id/karaage_text"
+        android:title="@string/karaage_text" />
+    <item
+        android:id="@+id/kimakare_text"
+        android:title="@string/kimakare_text" />
+    <item
+        android:id="@+id/pizza_text"
+        android:title="@string/pizza_text" />
+
+</menu>
