@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2985" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/context.xml" value="0.334375" />
         <entry key="app/src/main/res/menu/main.xml" value="0.33" />
         <entry key="app/src/main/res/menu/option_menu.xml" value="0.15989583333333332" />
       </map>

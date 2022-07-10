@@ -7,4 +7,6 @@
     <string name="karaage_text">唐揚げ</string>
     <string name="kimakare_text">キーマカレー</string>
     <string name="pizza_text">ピザ</string>
+    <string name="mail_text">メールする</string>
+    <string name="sms_text">SMSする</string>
 </resources>
