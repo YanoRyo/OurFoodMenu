@@ -97,7 +97,7 @@ class MainActivity : AppCompatActivity() {
             R.id.mail -> {
                 val subject = getString(R.string.app_name)
                 val text = "${menuText.text}が食べたい！"
-                val uri = Uri.fromParts("mailto", "yanoryo7032@gmail.com",null)
+                val uri = Uri.fromParts("mailto", "0000000000@gmail.com",null)
                 val intent = Intent(Intent.ACTION_SENDTO, uri)
                 intent.putExtra(Intent.EXTRA_SUBJECT, subject)
                 intent.putExtra(Intent.EXTRA_TEXT, text)
@@ -108,7 +108,7 @@ class MainActivity : AppCompatActivity() {
             }
             R.id.sms -> {
                 val text = "${menuText.text}が食べたい！"
-                val uri = Uri.fromParts("smsto", "08058855493",null)
+                val uri = Uri.fromParts("smsto", "08000000000",null)
                 val intent = Intent(Intent.ACTION_SENDTO, uri)
                 val sms_body:String? = null
                 intent.putExtra(sms_body, text)
